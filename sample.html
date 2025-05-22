@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Font Comparison</title>
+    <style>
+        @font-face {
+            font-family: 'OriginalBold';
+            src: url('./original/BIZUDPGothic-Bold.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'OriginalRegular';
+            src: url('./original/BIZUDPGothic-Regular.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'ReleaseBold';
+            src: url('./release/FORMUDPGothic-Bold.ttf') format('truetype');
+        }
+        @font-face {
+            font-family: 'ReleaseRegular';
+            src: url('./release/FORMUDPGothic-Regular.ttf') format('truetype');
+        }
+
+        body {
+            font-family: 'ReleaseRegular';
+            margin: 20px;
+            line-height: 1.6;
+        }
+
+        .invoice {
+            border: 1px solid #ddd;
+            padding: 20px;
+            width: 600px;
+            margin: 0 auto;
+            border-collapse: collapse;
+        }
+
+        .section-title {
+            font-size: 18px;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-bottom: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f4f4f4;
+            font-weight: bold;
+        }
+
+        .font-original {
+            font-family: 'OriginalRegular';
+        }
+
+        .font-original .bold {
+            font-family: 'OriginalBold';
+        }
+
+        .font-release {
+            font-family: 'ReleaseRegular';
+        }
+
+        .font-release .bold {
+            font-family: 'ReleaseBold';
+        }
+
+        .price {
+            text-align: right;
+        }
+    </style>
+</head>
+<body>
+    <div class="invoice">
+        <div class="section">
+            <div class="section-title">BIZ UDPゴシック (BIZ UDPGothic)</div>
+            <table class="font-original">
+                <thead>
+                    <tr>
+                        <th>品目</th>
+                        <th>価格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="bold">商品 No.11111</td>
+                        <td class="price">¥111,111,111</td>
+                    </tr>
+                    <tr>
+                        <td class="bold">商品 No.12121</td>
+                        <td class="price">¥121,212,121</td>
+                    </tr>
+                    <tr>
+                        <td class="bold">商品 No.88888</td>
+                        <td class="price">¥888,888,888</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <div class="section">
+            <div class="section-title">帳票 UDPゴシック (FORM UDPGothic)</div>
+            <table class="font-release">
+                <thead>
+                    <tr>
+                        <th>品目</th>
+                        <th>価格</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="bold">商品 No.11111</td>
+                        <td class="price">¥111,111,111</td>
+                    </tr>
+                    <tr>
+                        <td class="bold">商品 No.12121</td>
+                        <td class="price">¥121,212,121</td>
+                    </tr>
+                    <tr>
+                        <td class="bold">商品 No.88888</td>
+                        <td class="price">¥888,888,888</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+</body>
+</html>

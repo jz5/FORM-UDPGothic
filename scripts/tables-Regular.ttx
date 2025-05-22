@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ttFont sfntVersion="\x00\x01\x00\x00" ttLibVersion="4.58">
+
+  <name>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x409">
+      FORM UDPGothic
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x409">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x409">
+      001;PRNM;FORM-UDPGothic
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x409">
+      FORM UDPGothic
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x409">
+      Version 1.05101
+    </namerecord>
+    <namerecord nameID="6" platformID="3" platEncID="1" langID="0x409">
+      FORMUDPGothic-Regular
+    </namerecord>
+    <namerecord nameID="8" platformID="3" platEncID="1" langID="0x409">
+      Pronama LLC
+    </namerecord>
+    <namerecord nameID="11" platformID="3" platEncID="1" langID="0x409">
+      https://pronama.jp/tag/font/
+    </namerecord>
+    <namerecord nameID="13" platformID="3" platEncID="1" langID="0x409">
+      This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is available with a FAQ at: https://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="14" platformID="3" platEncID="1" langID="0x409">
+      https://scripts.sil.org/OFL
+    </namerecord>
+    <namerecord nameID="1" platformID="3" platEncID="1" langID="0x411">
+      帳票 UDPゴシック
+    </namerecord>
+    <namerecord nameID="2" platformID="3" platEncID="1" langID="0x411">
+      Regular
+    </namerecord>
+    <namerecord nameID="3" platformID="3" platEncID="1" langID="0x411">
+      001;PRNM;FORM-UDPGothic
+    </namerecord>
+    <namerecord nameID="4" platformID="3" platEncID="1" langID="0x411">
+      帳票 UDPゴシック
+    </namerecord>
+    <namerecord nameID="5" platformID="3" platEncID="1" langID="0x411">
+      Version 1.05101
+    </namerecord>
+  </name>
+
+  <OS_2>
+    <!-- The fields 'usFirstCharIndex' and 'usLastCharIndex'
+         will be recalculated by the compiler -->
+    <version value="4"/>
+    <xAvgCharWidth value="1801"/>
+    <usWeightClass value="400"/>
+    <usWidthClass value="5"/>
+    <fsType value="00000000 00000000"/>
+    <ySubscriptXSize value="1024"/>
+    <ySubscriptYSize value="1556"/>
+    <ySubscriptXOffset value="0"/>
+    <ySubscriptYOffset value="307"/>
+    <ySuperscriptXSize value="1024"/>
+    <ySuperscriptYSize value="1556"/>
+    <ySuperscriptXOffset value="0"/>
+    <ySuperscriptYOffset value="0"/>
+    <yStrikeoutSize value="102"/>
+    <yStrikeoutPosition value="727"/>
+    <sFamilyClass value="0"/>
+    <panose>
+      <bFamilyType value="2"/>
+      <bSerifStyle value="11"/>
+      <bWeight value="4"/>
+      <bProportion value="0"/>
+      <bContrast value="0"/>
+      <bStrokeVariation value="0"/>
+      <bArmStyle value="0"/>
+      <bLetterForm value="0"/>
+      <bMidline value="0"/>
+      <bXHeight value="0"/>
+    </panose>
+    <ulUnicodeRange1 value="11100000 00000000 00000010 11110111"/>
+    <ulUnicodeRange2 value="00101010 11000111 11101101 11111000"/>
+    <ulUnicodeRange3 value="00000000 00000000 00000000 00010010"/>
+    <ulUnicodeRange4 value="00000000 00000000 00000000 00000000"/>
+    <achVendID value="PRNM"/>
+    <fsSelection value="00000000 01000000"/>
+    <usFirstCharIndex value="32"/>
+    <usLastCharIndex value="65535"/>
+    <sTypoAscender value="1802"/>
+    <sTypoDescender value="-246"/>
+    <sTypoLineGap value="0"/>
+    <usWinAscent value="1802"/>
+    <usWinDescent value="246"/>
+    <ulCodePageRange1 value="00100000 00000010 00000000 00001001"/>
+    <ulCodePageRange2 value="00000000 00000000 00000000 00000000"/>
+    <sxHeight value="1108"/>
+    <sCapHeight value="1567"/>
+    <usDefaultChar value="0"/>
+    <usBreakChar value="32"/>
+    <usMaxContext value="6"/>
+  </OS_2>
+
+  <head>
+    <!-- Most of this table will be recalculated by the compiler -->
+    <tableVersion value="1.0"/>
+    <fontRevision value="1.05101"/>
+    <checkSumAdjustment value="0x4eff9386"/>
+    <magicNumber value="0x5f0f3cf5"/>
+    <flags value="00000000 00001011"/>
+    <unitsPerEm value="2048"/>
+    <created value="Thu May 22 18:32:56 2025"/>
+    <modified value="Thu May 22 18:32:56 2025"/>
+    <xMin value="-15"/>
+    <yMin value="-246"/>
+    <xMax value="2048"/>
+    <yMax value="1802"/>
+    <macStyle value="00000000 00000000"/>
+    <lowestRecPPEM value="9"/>
+    <fontDirectionHint value="2"/>
+    <indexToLocFormat value="1"/>
+    <glyphDataFormat value="0"/>
+  </head>
+
+</ttFont>

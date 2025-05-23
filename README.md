@@ -1,8 +1,12 @@
 # 帳票 UDPゴシック (FORM UDPGothic)
 
-**モリサワ [BIZ UDPゴシック](https://github.com/googlefonts/morisawa-biz-ud-gothic) (Version 1.051) の「1」と「１（全角）」の幅だけを変更して、0〜9を等幅にしたフォントです（※）。** 等幅の BIZ UDゴシックの数字は細すぎる！というときに使えます。
+**モリサワ [BIZ UDPゴシック](https://github.com/googlefonts/morisawa-biz-ud-gothic) (Version 1.051) の「1」と「１（全角）」の幅のみを変更し、数字（0〜9）を等幅にしたフォントです（※）。** 
 
-※ BIZ UDPゴシックは、0〜9のうち1だけ幅が異なる。
+「BIZ UDPゴシック」を使いたい！ でも、数字は等幅にしたい。でも、等幅の「BIZ UDゴシック」の数字は細すぎる！　というときに使えるフォントです。
+
+「BIZ UDPゴシック」のグリフ数 13,932個のうち2個を変更し、残りの約 99.9856% のグリフは全く同じです。
+
+※「BIZ UDPゴシック」は、0〜9 のうち 1 のみ幅（サイドベアリング）が異なる。
 
 ![](image.png)
 

@@ -6,6 +6,13 @@
 
 ![](image.png)
 
+## Repository
+
+* diff: [Diffenator 2](https://github.com/googlefonts/diffenator2) によるフォントの差分レポート
+* original: [Morisawa BIZ UDGothic](https://github.com/googlefonts/morisawa-biz-ud-gothic) のコピー
+* release: 帳票 UDPゴシック
+* scripts: 生成スクリプトなど
+
 ## License
 
 * フォント: [SIL Open Font License](https://openfontlicense.org/)

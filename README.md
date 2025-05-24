@@ -8,7 +8,13 @@
 
 ※「BIZ UDPゴシック」は、0〜9 のうち 1 のみ幅（サイドベアリング）が異なる。
 
+「[帳票 UDP明朝](https://github.com/jz5/FORM-UDPMincho)」も作りました。
+
 ![](image.png)
+
+## ダウンロード
+
+[Release](https://github.com/jz5/FORM-UDPGothic/releases) から。
 
 ## Repository
 

@@ -12,7 +12,7 @@
 
 ![](image.png)
 
-## 注意: Windows の BIZ UD ゴシックとの違い
+## 注意: Windows の BIZ UDPゴシックとの違い
 
 「帳票 UDPゴシック」は、オープンソースライセンスの「[BIZ UDPゴシック](https://github.com/googlefonts/morisawa-biz-ud-gothic)(version 1.051)」を改変したフォントです（Google Fonts でも提供されているフォント）。
 

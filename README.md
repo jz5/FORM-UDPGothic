@@ -20,6 +20,12 @@ Windows で提供されている「[BIZ UDPゴシック](https://www.morisawa.co
 
 そのため、「帳票 UDPゴシック」も、Windows の「BIZ UDPゴシック」とは、レンダリング結果が異なる場合があります。
 
+||version 2.01|version 1.051|
+| --- | --- | --- |
+|グリフ数|12,691|13,932|
+|U+005C|円記号|バックスラッシュ|
+
+差分ツールによると [Combining character](https://en.wikipedia.org/wiki/Combining_character) 29個に差異がある（が、違い不明）。
 
 
 ## ダウンロード
